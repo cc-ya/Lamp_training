@@ -12,4 +12,5 @@ $base -> headerDisplay();
 <textarea name="contents" cols="50" rows="10"></textarea>
 <p><input type="button" value="登録" onClick="location.href='http://localhost/lamp-blog/site1/blogs/view.php'"></p>
 </form>
+
 <p><a href="index.php">戻る</a></p>
