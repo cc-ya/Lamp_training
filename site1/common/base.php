@@ -18,16 +18,14 @@ class Base
 		    <meta http-equiv="X-UA-Compatible" content="ie=edge">
 			<title>LAMPブログ</title>
 		</head>
-		</html>
 <?php
 	}
+
 	public function headerDisplay()
 	{
 ?>
 		<body>
-			<p>--------------------------------------</p>
 			<h1>ブログタイトル</h1>
-			<p>--------------------------------------</p>
 		</body>
 <?php
 	}
